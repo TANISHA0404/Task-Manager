@@ -1,6 +1,6 @@
 # Task Coordinator - A MERN Stack Application Project
 
-![Taskmaster](https://res.cloudinary.com/dqone7ala/image/upload/v1716348976/Screenshot_2024-05-22_060247_fz8rbe.png)
+![Taskmaster](https://res.cloudinary.com/dpreiehu7/image/upload/v1755023743/task_coordinator_pwwi9b.png)
 
 ## Project Description
 
