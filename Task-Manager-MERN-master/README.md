@@ -18,7 +18,7 @@ Taskmaster is a full-stack web application designed to help users manage their t
 
 ## Live Demo
 
-Check out the live demo: [Taskmaster Live Demo](https://task-manager-one-sandy-49.vercel.app/)
+Check out the live demo: [Taskmaster Live Demo](https://task-manager-git-main-tanishas-projects-95c990ac.vercel.app/)
 
 ## Local Installation Guide
 
