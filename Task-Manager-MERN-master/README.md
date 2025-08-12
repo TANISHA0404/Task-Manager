@@ -18,7 +18,7 @@ Taskmaster is a full-stack web application designed to help users manage their t
 
 ## Live Demo
 
-Check out the live demo: [Taskmaster Live Demo](https://taskmasterashuvra.netlify.app/)
+Check out the live demo: [Taskmaster Live Demo](https://task-manager-one-sandy-49.vercel.app/)
 
 ## Local Installation Guide
 
@@ -28,7 +28,7 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shuvra-matrix/Task-Manager-MERN.git
+   git clone https://github.com/TANISHA0404/Task-Manager.git
    cd Task-Manager-MERN
    ```
 
@@ -102,6 +102,3 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push your changes to your forked repository.
 5. Create a pull request to the main repository.
 
-## Issues
-
-If you encounter any issues or have any feature requests, please create an issue in the [Issues](https://github.com/shuvra-matrix/Task-Manager-MERN/issues) section of the repository.
